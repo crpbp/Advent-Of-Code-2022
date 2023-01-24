@@ -11,6 +11,7 @@ namespace Day_01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("poo poo pee pee");
             var input = File.ReadAllLines("input.txt");
 
             List<int> elfCals = new List<int>();
